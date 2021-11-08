@@ -6,3 +6,4 @@ This is a weekend project I put together in my first semester of CS courses in o
 1. Implement a sudoku generator
 2. Implement different solving algorithms (dancing links) and/or optimizations (constraint propagation)
 3. Ability to compare different solving algorithms
+4. Welcome with selection of different Sudoku dimensions
