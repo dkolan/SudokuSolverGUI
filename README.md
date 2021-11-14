@@ -1,5 +1,5 @@
 # SudokuSolverGUI
-This is a weekend project I put together in my first semester of CS courses in order to learn how to functionally implement an algorithm (in this case, recursive backtracking), using appropriate object oriented design in order to facilitate future development, and to write my first GUI with the Java Swing GUI framework.
+This is a "sprint" project I put together in my first semester of CS courses in order to learn how to functionally implement an algorithm (in this case, recursive backtracking), using appropriate object oriented design in order to facilitate future development, and to write my first GUI with the Java Swing GUI framework.
 
 # Todo
 0. Refactor, refactor, refactor -- there are many different approaches to Swing GUI implementations, and I am unsure if the Princeton resources I used are best for learning or best practice.
